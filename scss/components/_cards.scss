@@ -1,0 +1,27 @@
+/* Tienda */
+.card-deck {
+    .card {
+        .card-body {
+            .card-title {
+                font-family: 'Dancing Script', cursive;
+                font-size: 1.6rem;
+                color: $colorTextoTienda;
+                padding: 0.2rem;
+                margin-bottom: 0.2rem;
+            }
+
+            .card-text {
+                color: $colorTextoTienda;
+                text-align: center;
+                font-style: italic;
+                padding: 0.5rem;
+                margin: 0.3rem;
+                background-color: $fondoColorCards;
+            }
+
+            .cardAgregar {
+                background-color: $fondoColor;
+            }
+        }
+    }
+}

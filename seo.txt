@@ -1,0 +1,51 @@
+- En todos los archivos html se agregaron Keywords, descripciones y títulos:
+	- index.html:
+		Keywords: sunspot, plantas, semillas, huerta, cultivo.
+		Descripción: Sunspot, cultivo urbano. Nuestro objetivo es inspirar y facilitar el cultivo urbano con el fin de crear espacios vivos y comestibles y trabajar a favor de la naturaleza.
+		Título: "Sunspot: Cultivo urbano".
+
+	- semillas.html:
+		Keywords: sunspot, tienda, semillas, comprar, argentina.
+		Descripción: Tienda online de Sunspot para comprar semillas de cultivo urbano.
+	    Título: "Sunspot: Semillas".
+
+	- contacto.html:
+		Keywords: sunspot, plantas, semillas, argentina, buenos aires, compras.
+		Descripción: Medios de contacto para comunicarse con Sunspot. Consulta acerca de compras o pedidos online.
+		Título: "Sunspot: Contacto".
+
+	- nosotros.html:
+		Keywords: sunspot, plantas, semillas, sostenibilidad.
+		Descripción: Sunspot, somos una empresa dedicada al cultivo urbano, garantizando la sostenibilidad y el uso de recursos.
+		Título: "Sunspot: Nosotros".
+
+	- cursos.html:
+		Keywords: plantas, argentina, buenos aires, talleres, cursos, agroecologia.
+		Descripción: información sobre cursos y talleres relacionados con el cultivo urbano y la agroecología.
+		Título: "Sunspot: Cursos".
+
+	- construcción.html:
+		Keywords: sunspot.
+		Descripción: Página en construcción, por favor visitar el resto del sitio web.
+		Título: "Sunspot: En construcción".
+
+		
+- En todos los archivos html también se realizó lo siguiente:
+	- Se cambió la etiqueta <html lang="en"> por <html lang="es">.
+	- Se mejoró el uso de los encabezados.
+
+	
+- Se cambió la ubicación de los archivos html excepto index.html (se encuentran en el directorio /secciones).
+
+
+- Se generó sitemap.xml
+
+		
+- Se optimizaron las imágenes para que ocupen menor espacio.
+
+
+Herramientas utilizadas:
+- Seoquake: para elegir las Keywords, tomando como referencia sitios web con temáticas similares.
+- Mobile-Friendly Test de Google: para verificar la optimización móvil del sitio web.
+- Photopea: para optimizar imágenes.
+- XML Sitemaps: para generar el sitemap.
